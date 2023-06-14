@@ -35,7 +35,7 @@ def enviar_email(cotacao):
     s.quit()
    
         
-        
-if cotacao < 5.20:
-    enviar_email(cotacao)
+
+ 
+enviar_email(cotacao)
 #deploy
